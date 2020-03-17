@@ -1,0 +1,28 @@
+{
+  "name": "numerical-method",
+  "version": "1.0.0",
+  "description": "This is a npm package to solve equations using the numerical methods",
+  "main": "inedx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anwesh-b/numerical-method.git"
+  },
+  "keywords": [
+    "js",
+    "numerical",
+    "method",
+    "mathematics"
+  ],
+  "author": "Anwesh Budhathoki",
+  "dependencies": {
+    "mathjs": "6.6.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anwesh-b/numerical-method/issues"
+  },
+  "homepage": "https://github.com/anwesh-b/numerical-method#readme"
+}
