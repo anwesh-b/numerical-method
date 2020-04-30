@@ -1,8 +1,8 @@
 {
   "name": "numerical-method",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a npm package to solve equations using the numerical methods",
-  "main": "inedx.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
